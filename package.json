@@ -1,9 +1,9 @@
 {
-  "name": "@Ruesink-Web-Dev/components",
+  "name": "@ruesink-web-dev/components",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Ruesink-Web-Dev"
+    "registry": "https://npm.pkg.github.com/ruesink-web-dev"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Component library for timswebsolutions",
   "scripts": {
     "rollup": "rollup -c"
